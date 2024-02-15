@@ -1,0 +1,7 @@
+.bookmarkBtn{
+    transition: all .5s;
+}
+
+.bookmarkBtn:hover{
+    background-color: rgb(219, 219, 219);
+}
